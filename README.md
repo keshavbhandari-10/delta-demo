@@ -1,2 +1,2 @@
 # delta-demo
-Just learning Git hub and Git class
+Just learning Git hub and Git class.
